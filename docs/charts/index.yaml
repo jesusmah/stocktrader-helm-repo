@@ -3,10 +3,10 @@ entries:
   loyalty-level:
   - apiVersion: v1
     appVersion: icp-v1.0
-    created: 2018-05-08T16:29:52.88728+02:00
+    created: 2018-05-08T16:48:47.46088+02:00
     description: A Helm chart for the loyalty level microservice of the StockTrader
       application.
-    digest: 51a6cc54a0e9733d3d846c712e4c67b17e6e9a34fe4152ab1ab1b0755fc5f1b8
+    digest: 47c0a3705751331d3ac4a1bbcbe1cb4ba974f9c86e7a1b6b4dfe5357766bea64
     name: loyalty-level
     urls:
     - https://raw.githubusercontent.com/jesusmah/stocktrader-helm-repo/master/docs/charts/loyalty-level-1.0.0.tgz
@@ -14,7 +14,7 @@ entries:
   messaging:
   - apiVersion: v1
     appVersion: icp-v1.0
-    created: 2018-05-08T16:29:52.888153+02:00
+    created: 2018-05-08T16:48:47.461445+02:00
     description: A Helm chart for the messaging microservice of the StockTrader application.
     digest: a07ef51fa39889b1df94daa494d2d0200473b6eaba0ba8b3f5e3851886c7424d
     name: messaging
@@ -24,7 +24,7 @@ entries:
   notification-slack:
   - apiVersion: v1
     appVersion: icp-v1.0
-    created: 2018-05-08T16:29:52.889047+02:00
+    created: 2018-05-08T16:48:47.462133+02:00
     description: A Helm chart for the slack notification microservice of the StockTrader
       application.
     digest: 1bababe60723edbf48330883f83dbb35348ae13339259546df248021a9e5812a
@@ -35,10 +35,10 @@ entries:
   notification-twitter:
   - apiVersion: v1
     appVersion: icp-v1.0
-    created: 2018-05-08T16:29:52.890134+02:00
+    created: 2018-05-08T16:48:47.462908+02:00
     description: A Helm chart for the Twitter notification microservice of the StockTrader
       application.
-    digest: 39948ce7adc9aca26c51dd00e7768b00bed9be52b89f6ee7471d1f0c3ee8d9a1
+    digest: ec17ba38e4c17cd08a60ceab41b103bb1f6d43d6265cff5b536832066f3b68c2
     name: notification-twitter
     urls:
     - https://raw.githubusercontent.com/jesusmah/stocktrader-helm-repo/master/docs/charts/notification-twitter-1.0.0.tgz
@@ -46,9 +46,9 @@ entries:
   portfolio:
   - apiVersion: v1
     appVersion: icp-v1.0
-    created: 2018-05-08T16:29:52.891038+02:00
+    created: 2018-05-08T16:48:47.463808+02:00
     description: A Helm chart for the portfolio microservice of the StockTrader application.
-    digest: 7ea3cd1f3ef3330b016e372f5cf26ff7590e6afc8b0812507f21955ba68c4d94
+    digest: f8184acd8b69e037e6b63a09c2b76e8093e9ef428a2b924d91a1ad876724048c
     name: portfolio
     urls:
     - https://raw.githubusercontent.com/jesusmah/stocktrader-helm-repo/master/docs/charts/portfolio-1.0.0.tgz
@@ -56,17 +56,17 @@ entries:
   stock-quote:
   - apiVersion: v1
     appVersion: icp-v1.0
-    created: 2018-05-08T16:29:52.891939+02:00
+    created: 2018-05-08T16:48:47.464493+02:00
     description: A Helm chart for the stock quote microservice of the StockTrader
       application.
-    digest: cd722967e6f3deee4d01cd601d08e876a111700033ed9429fa1752b93ac4ee95
+    digest: df220d623b2ae4c1f93bd8d159e0262f03b68c5bfcd5b12d714ad0979cf523ad
     name: stock-quote
     urls:
     - https://raw.githubusercontent.com/jesusmah/stocktrader-helm-repo/master/docs/charts/stock-quote-1.0.0.tgz
     version: 1.0.0
   stocktrader-app:
   - apiVersion: v1
-    created: 2018-05-08T16:29:52.893986+02:00
+    created: 2018-05-08T16:48:47.467691+02:00
     description: IBM StockTrader application
     digest: 71a06e6c10acc2a3e5988dae65a49a0983b2409276f217ef0bcfcb7b99079330
     name: stocktrader-app
@@ -76,11 +76,11 @@ entries:
   trader:
   - apiVersion: v1
     appVersion: icp-v1.0
-    created: 2018-05-08T16:29:52.894799+02:00
+    created: 2018-05-08T16:48:47.468521+02:00
     description: A Helm chart for the trader microservice of the StockTrader application.
-    digest: 5aa4b44d24b38cf2474aef4ad3d93205d69e943af7d09d25bbf60bf999bc54b6
+    digest: c22e9aeeb812766143bd3069abdf29c7ec9121f8ec909bd76b5e2be66287c536
     name: trader
     urls:
     - https://raw.githubusercontent.com/jesusmah/stocktrader-helm-repo/master/docs/charts/trader-1.0.0.tgz
     version: 1.0.0
-generated: 2018-05-08T16:29:52.886215+02:00
+generated: 2018-05-08T16:48:47.459432+02:00
