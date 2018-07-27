@@ -3,7 +3,7 @@ entries:
   loyalty-level:
   - apiVersion: v1
     appVersion: icp-v1.0
-    created: 2018-07-26T16:57:13.250326+02:00
+    created: 2018-07-27T13:14:38.983005+02:00
     description: A Helm chart for the loyalty level microservice of the StockTrader
       application.
     digest: 1922531f312971a16466cde75a7b9cff2485263ab67e45d9bcbc4136e94f376b
@@ -14,7 +14,7 @@ entries:
   messaging:
   - apiVersion: v1
     appVersion: icp-v1.0
-    created: 2018-07-26T16:57:13.25061+02:00
+    created: 2018-07-27T13:14:38.983887+02:00
     description: A Helm chart for the messaging microservice of the StockTrader application.
     digest: ffdc28e592ac647f71b4ce8b597d8e74bae72594d8b85c1001967f5d1cb17b58
     name: messaging
@@ -24,7 +24,7 @@ entries:
   notification-slack:
   - apiVersion: v1
     appVersion: icp-v1.0
-    created: 2018-07-26T16:57:13.250882+02:00
+    created: 2018-07-27T13:14:38.984675+02:00
     description: A Helm chart for the slack notification microservice of the StockTrader
       application.
     digest: 49fea518de1d13142436cc17fc648059d51899b9f27f8cf271557e95e808bfb7
@@ -35,7 +35,7 @@ entries:
   notification-twitter:
   - apiVersion: v1
     appVersion: icp-v1.0
-    created: 2018-07-26T16:57:13.251173+02:00
+    created: 2018-07-27T13:14:38.985308+02:00
     description: A Helm chart for the Twitter notification microservice of the StockTrader
       application.
     digest: 5c14f2e6462cc1004762695f5cf0a9820afeff2bb1896601c0bd6d9d23cf3c2a
@@ -46,7 +46,7 @@ entries:
   portfolio:
   - apiVersion: v1
     appVersion: icp-v1.0
-    created: 2018-07-26T16:57:13.251874+02:00
+    created: 2018-07-27T13:14:38.986996+02:00
     description: A Helm chart for the portfolio microservice of the StockTrader application.
     digest: 6d695083841668b982f625f50ebd83412b344c87e58835f848018d95557fb040
     name: portfolio
@@ -55,7 +55,7 @@ entries:
     version: 2.0.0
   - apiVersion: v1
     appVersion: icp-v1.0
-    created: 2018-07-26T16:57:13.251525+02:00
+    created: 2018-07-27T13:14:38.986091+02:00
     description: A Helm chart for the portfolio microservice of the StockTrader application.
     digest: 2fd3c62aeb0384c24ead89c158fe55098734a8f0a09f1772eb24855fcae165a5
     name: portfolio
@@ -65,7 +65,7 @@ entries:
   stock-quote:
   - apiVersion: v1
     appVersion: icp-v1.0
-    created: 2018-07-26T16:57:13.252157+02:00
+    created: 2018-07-27T13:14:38.987818+02:00
     description: A Helm chart for the stock quote microservice of the StockTrader
       application.
     digest: cfcc8014eaee02d83fb91e54f3173c5afbbe0f8e617bd9f96a609acbdb829783
@@ -75,7 +75,7 @@ entries:
     version: 1.0.0
   stocktrader-app:
   - apiVersion: v1
-    created: 2018-07-26T16:57:13.256761+02:00
+    created: 2018-07-27T13:14:38.995466+02:00
     description: IBM StockTrader application with Slack notifications
     digest: 96ece558cd7d53f115650f53f1b3a4fc0aa6a44d6445266a698105cf19d84b66
     name: stocktrader-app
@@ -83,7 +83,7 @@ entries:
     - https://raw.githubusercontent.com/jesusmah/stocktrader-helm-repo/master/docs/charts/stocktrader-app-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
-    created: 2018-07-26T16:57:13.25466+02:00
+    created: 2018-07-27T13:14:38.992398+02:00
     description: IBM StockTrader application
     digest: bd65929ee0ae53f38008ce2744e2c3fc7882b6d4b4fed406493db65061cfa707
     name: stocktrader-app
@@ -91,7 +91,7 @@ entries:
     - https://raw.githubusercontent.com/jesusmah/stocktrader-helm-repo/master/docs/charts/stocktrader-app-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: 2018-07-26T16:57:13.253285+02:00
+    created: 2018-07-27T13:14:38.990356+02:00
     description: IBM StockTrader application
     digest: e0ab17b03e84e861c04973502ea4c9150eff405bc0ab4b2daaacb9b78624b871
     name: stocktrader-app
@@ -101,16 +101,16 @@ entries:
   trader:
   - apiVersion: v1
     appVersion: icp-v1.0
-    created: 2018-07-26T16:57:13.257348+02:00
+    created: 2018-07-27T13:14:38.996372+02:00
     description: A Helm chart for the trader microservice of the StockTrader application.
-    digest: 67a45b316a8a08d8d711b5ee69f1da3d57a91e370cc71f11204978d4016c55de
+    digest: d9493ffe8c36030634e64ca537dc2aae98e803fd4dab2ac17d8a67bcb60f0f54
     name: trader
     urls:
     - https://raw.githubusercontent.com/jesusmah/stocktrader-helm-repo/master/docs/charts/trader-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: icp-v1.0
-    created: 2018-07-26T16:57:13.257037+02:00
+    created: 2018-07-27T13:14:38.996095+02:00
     description: A Helm chart for the trader microservice of the StockTrader application.
     digest: 7c65300acb57b0adafd76e08c07aa44e24e4c0407441c5075adfb6c6de36c061
     name: trader
@@ -120,11 +120,11 @@ entries:
   tradr:
   - apiVersion: v1
     appVersion: icp-v1.0
-    created: 2018-07-26T16:57:13.257655+02:00
+    created: 2018-07-27T13:14:38.996636+02:00
     description: A Helm chart for the tradr microservice of the StockTrader application.
-    digest: 58312b531db962fd30b53248593343764be436e82dbbc2392220b8e09d8621fe
+    digest: c63902a6979427f3a77d3bce7ac70e80b239c970b8eb2035b92a6b9d42b35367
     name: tradr
     urls:
     - https://raw.githubusercontent.com/jesusmah/stocktrader-helm-repo/master/docs/charts/tradr-1.0.0.tgz
     version: 1.0.0
-generated: 2018-07-26T16:57:13.249789+02:00
+generated: 2018-07-27T13:14:38.981819+02:00
